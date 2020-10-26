@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #B0E0E6;  /*powder blue*/
+}
+.button {
+  color: #FFF;
+  background-color: #FFB6C1;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 3px solid #FFF;
+  border-radius: 5px;
+  width: 200px;
+  margin: 20px auto;
+}
+.call-to-action {
+  font-style: oblique;
+  font-size: 35px;
+}

@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #B0E0E6;  /*powder blue*/
+  background-color: #FFF;  /*powder blue*/
 }
 .button {
   color: #FFF;
@@ -10,7 +10,7 @@
   font-weight: bold;
   padding: 20px;
   text-align: center;
-  border: 3px solid #FFF;
+  border: 3px solid #000000;
   border-radius: 5px;
   width: 200px;
   margin: 20px auto;
@@ -19,3 +19,33 @@
   font-style: oblique;
   font-size: 35px;
 }
+@font-face {
+  font-family: 'blackjack';
+  src: url('blackjack-webfont.woff') format('woff')
+}
+
+h1 {
+  font-family: 'blackjack', sans-serif;
+  font-size: 130px;
+  text-align: center;
+  line-height: 2em;
+  color: #000000;
+}
+
+p1 {
+  font-size: 30px;
+  text-align: center;
+  color: #000000;
+}
+ .menu-container {
+   color:#000000;
+   background-color: #FFB6C1;
+   padding: 20px;
+   display: flex;
+ }
+ .menu {
+   border: 1px solid #FFF;
+   width: 900px;
+   display: flex;
+   justify content: space-between;
+ }

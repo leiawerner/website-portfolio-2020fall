@@ -45,12 +45,13 @@ p {
   margin-top: -150px;
 }
  .menu-container {
-   color:#000000;
-   background-color: #FFB6C1;
-   padding: 20px 0;
+   color:#FFF;
+   background-color: #FFf;
+   padding: 20px;
    display: flex;
    justify-content: space-around;
- }
+   margin-top: 20px;
+   margin-bottom: 45px;
  }
  a:hover {
    color: black;
@@ -59,7 +60,6 @@ p {
  .page {
    width: 400px;
  }
-
  .newyork img {
    float:left;
    margin-left: 100px;
@@ -79,4 +79,10 @@ p {
  }
 h3 {
   color: #fff;
+}
+.Facebook, .Twitter, .Instagram {
+  background-color: #FFF;
+}
+a:link {
+  color: black;
 }

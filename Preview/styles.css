@@ -5,6 +5,7 @@
   background-color: #FFF;  /*powder blue*/
 }
 .button {
+  display: block;
   color: #FFF;
   background-color: #FFB6C1;
   font-weight: bold;
@@ -12,12 +13,15 @@
   text-align: center;
   border: 3px solid #000000;
   border-radius: 5px;
+  margin: 40px auto;
   width: 200px;
-  margin: 20px auto;
+  bottom: 40px;
 }
 .call-to-action {
   font-style: oblique;
   font-size: 35px;
+  text-align: center;
+  margin-top: 40px auto;
 }
 @font-face {
   font-family: 'blackjack';
@@ -26,16 +30,18 @@
 
 h1 {
   font-family: 'blackjack', sans-serif;
-  font-size: 130px;
+  font-size: 140px;
   text-align: center;
   line-height: 2em;
   color: #000000;
 }
 
-p1 {
-  font-size: 28px;
-  text-align: right;
+p {
+  font-size: 23px;
+  text-align: center;
   color: #000000;
+  top: 6px;
+  margin-top: -65px;
 }
 * {
   margin: 0;
@@ -52,4 +58,15 @@ p1 {
    width: 900px;
    display: flex;
    justify content: space-between;
+ }
+ a:hover {
+   color: black;
+   text-decoration: underline;
+ }
+ .page {
+   width: 400px;
+ }
+ p2 {
+   font-size: 20px;
+   text-align: center;
  }

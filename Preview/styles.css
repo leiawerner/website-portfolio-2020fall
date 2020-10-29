@@ -27,6 +27,10 @@
   font-family: 'blackjack';
   src: url('blackjack-webfont.woff') format('woff')
 }
+@font-face {
+  font-family: 'abhayalibre'
+  src: url('abhaya-libre-fontfacekit')
+}
 
 h1 {
   font-family: 'blackjack', sans-serif;
@@ -83,4 +87,8 @@ h3 {
 }
 a:link {
   color: black;
+}
+.after img {
+  float: left;
+  margin-left: 40px;
 }

@@ -31,6 +31,11 @@
   font-family: 'abhayalibre'
   src: url('abhaya-libre-fontfacekit')
 }
+@font-face {
+  font-family: 'blackrose'
+  src: url('BLACKR-webfont.woff') format('woff')
+}
+
 
 h1 {
   font-family: 'blackjack', sans-serif;
@@ -90,5 +95,6 @@ a:link {
 }
 .after img {
   float: left;
-  margin-left: 40px;
+  margin-left: 550px;
+  margin-top: 40px;
 }

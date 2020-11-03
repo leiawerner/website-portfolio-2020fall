@@ -1,1 +1,1 @@
-My RoughDraft consists of my Homepage and 3 attached files. They didn't turn out as complex as I orginially hoping, because this was very time consuming and at times fursturating. For review, try to not focus much on the writing, as the project is more about the design aspect. *Please open with Chrome if possible*
+

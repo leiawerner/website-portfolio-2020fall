@@ -6,6 +6,7 @@
 }
 .button {
   display: flex;
+  flex-flow: wrap;
   color: #FFF;
   background-color: #FFB6C1;
   font-weight: bold;
@@ -65,18 +66,21 @@ p {
  }
  .page {
    width: 400px;
+   margin: 0 auto;
  }
  .newyork img {
    float:left;
    margin-left: 100px;
    border: 5px solid #FFF;
    display: flex;
+   flex-flow: wrap;
  }
 .pitt img {
   float:right;
   margin-right: 100px;
   border: 5px solid #FFF;
   display: flex;
+  flex-flow:wrap;
 }
 .Facebook, .Twitter, .Instagram, .Home {
   background-color: #FFF;
@@ -100,7 +104,6 @@ ul {
   list-style-type: circle;
   font-size: 30px;
   margin-left: 190px;
-  display: flex;
 }
 .art img {
   margin-right: 500px;
@@ -108,6 +111,7 @@ ul {
   float: right;
   border: 3px solid #FFF;
   display: flex;
+  flex-flow: wrap;
 }
 .world img {
   margin-left: 500px;
@@ -122,6 +126,7 @@ iframe {
 .logo img {
   margin-left: 570px;
   display: flex;
+  flex-flow: column;
 }
 h3 {
   color: #FFF;

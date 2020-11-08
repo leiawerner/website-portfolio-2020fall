@@ -35,8 +35,6 @@
   font-family: 'blackrose'
   src: url('BLACKR-webfont.woff') format('woff')
 }
-
-
 h1 {
   font-family: 'blackjack', sans-serif;
   font-size: 165px;
@@ -45,7 +43,6 @@ h1 {
   color: #000000;
   margin-bottom: 70px;
 }
-
 p {
   font-size: 23px;
   text-align: center;
@@ -53,7 +50,7 @@ p {
   top: 20px;
   margin-top: -150px;
 }
- .menu-container {
+.menu-container {
    color:#FFF;
    background-color: #FFf;
    padding: 20px;
@@ -78,14 +75,6 @@ p {
   float:right;
   margin-right: 100px;
   border: 5px solid #FFF;
-}
- h2, h3 {
-   font-size: 28px;
-   text-align:center;
-   margin-left: 25px;
- }
-h3 {
-  color: #fff;
 }
 .Facebook, .Twitter, .Instagram, .Home {
   background-color: #FFF;
@@ -127,4 +116,7 @@ iframe {
 }
 .logo img {
   margin-left: 570px;
+}
+h3 {
+  color: #FFF;
 }

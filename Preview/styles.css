@@ -6,7 +6,6 @@
 }
 .button {
   display: flex;
-  flex-flow: wrap;
   color: #FFF;
   background-color: #FFB6C1;
   font-weight: bold;

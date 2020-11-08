@@ -73,14 +73,14 @@ p {
    margin-left: 100px;
    border: 5px solid #FFF;
    display: flex;
-   flex-flow: wrap;
+   flex-flow: column;
  }
 .pitt img {
   float:right;
   margin-right: 100px;
   border: 5px solid #FFF;
   display: flex;
-  flex-flow:wrap;
+  flex-flow:column;
 }
 .Facebook, .Twitter, .Instagram, .Home {
   background-color: #FFF;
@@ -126,7 +126,7 @@ iframe {
 .logo img {
   margin-left: 570px;
   display: flex;
-  flex-flow: column;
+  flex-flow: wrap;
 }
 h3 {
   color: #FFF;

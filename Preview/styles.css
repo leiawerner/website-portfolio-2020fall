@@ -122,3 +122,13 @@ iframe {
 h3 {
   color: #FFF;
 }
+.header-container {
+  color: #FFF;
+  background-color: #000000;
+  display: flex;
+  justify-content: center;
+}
+.header {
+  font-size: 49px;
+  background-color: #000000;
+}

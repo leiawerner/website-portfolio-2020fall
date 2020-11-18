@@ -123,12 +123,22 @@ h3 {
   color: #FFF;
 }
 .header-container {
-  color: #FFF;
-  background-color: #000000;
+  color: #fff;
+  background-color: #B0E0E6;
   display: flex;
   justify-content: center;
+  margin-top: 40px;
+  font-size: 50px;
 }
 .header {
-  font-size: 49px;
-  background-color: #000000;
+  font-size: 70px;
+  background-color: #FFB6C1;
+  display: flex;
+}
+.Facts {
+  color: #FFF;
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  font-size: 70px;
 }

@@ -5,7 +5,7 @@
   background-color: #B0E0E6;  /*powder blue*/
 }
 .button {
-  display: flex;
+  display:flex;
   color: #FFF;
   background-color: #FFB6C1;
   font-weight: bold;
@@ -14,14 +14,13 @@
   border-radius: 5px;
   margin: 40px auto;
   width: 180px;
-  bottom: 40px;
   justify-content:center;
 }
 .call-to-action {
   font-style: oblique;
   font-size: 35px;
   text-align: center;
-  margin-top: 40px auto;
+
 }
 @font-face {
   font-family: 'blackjack';
@@ -134,7 +133,6 @@ h3 {
   font-size: 100px;
   background-color: #B0E0E6;
   display: flex;
-  border: 1px solid #000000;
 }
 .Facts {
   color: #FFF;
